@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Resources\Topicality as ResourcesTopicality;
+use App\Http\Resources\TopicalityResource as ResourcesTopicality;
 use App\Models\Topicality;
 use Illuminate\Http\Request;
 
